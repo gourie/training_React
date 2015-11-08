@@ -35,6 +35,10 @@
                 console.log(data);
             },
             handleCommentSubmit: function(comment) {
+                //optimistically add comment already to view (to speed up UI)
+                var comments = this.state.data;
+                var newComments = comments.concat([comment]);
+                this.setState({data: newComments});
                 //submit to server and refresh the list
                 $.ajax({
                     url: this.props.url,
