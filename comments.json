@@ -1,10 +1,58 @@
 [
     {
-        "author": "Tijs Nicolaes",
-        "text": "React with JSON file as DB!"
+        "text": [
+            "step1"
+        ],
+        "author": [
+            "Ilse"
+        ]
     },
     {
-        "author": "Siebe O’Shannessy",
-        "text": "React is *great*!"
+        "text": [
+            "step2"
+        ],
+        "author": [
+            "Joeri"
+        ]
+    },
+    {
+        "text": [
+            "step3"
+        ],
+        "author": [
+            "Siebe"
+        ]
+    },
+    {
+        "text": [
+            "Watte?"
+        ],
+        "author": [
+            "Tijs"
+        ]
+    },
+    {
+        "text": [
+            "Slaap maar jongen"
+        ],
+        "author": [
+            "Joeri"
+        ]
+    },
+    {
+        "text": [
+            "rrrrzzz"
+        ],
+        "author": [
+            "Tijs"
+        ]
+    },
+    {
+        "text": [
+            "Jaja"
+        ],
+        "author": [
+            "Mama"
+        ]
     }
 ]
