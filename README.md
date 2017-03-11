@@ -1,2 +1,2 @@
-# web
-some web programming projects
+# first baby steps for learning React 
+Comments example from React site
